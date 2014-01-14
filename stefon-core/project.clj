@@ -10,7 +10,7 @@
                  [cheshire "4.0.0"]
                  [commons-codec "1.5"]
                  [com.google.javascript/closure-compiler "r1592"]
-                 [clj-v8 "0.1.4"]
+                 [clj-v8 "0.1.5"]
                  [clj-v8-native "0.1.4"]
                  [pathetic "0.5.1"]]
   :profiles {:dev {:dependencies [[ring-mock "0.1.4"]
